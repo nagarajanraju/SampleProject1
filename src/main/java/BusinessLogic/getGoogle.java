@@ -15,6 +15,11 @@ public class getGoogle {
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		driver=new ChromeDriver();
 		driver.get("https://www.google.com/");
+		
 	}
 
+	public void getYouTube()
+	{
+		System.out.println("It's done");
+	}
 }
