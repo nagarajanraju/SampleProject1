@@ -20,6 +20,13 @@ public class getGoogle {
 
 	public void getYouTube()
 	{
-		System.out.println("It's done");
+		System.out.println("It's You Tube");
 	}
+	
+	public void getYahoo()
+	{
+		System.out.println("It's yahoo");
+	}
+	
+	
 }
